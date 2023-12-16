@@ -6,3 +6,7 @@ Resume about the dashboard
   Dashboard to Compare Sales Performance to Actual Sales in Previous month to Monitor Customer behaviour & Sales performance in each City and Product
 
 Source: Data Set:https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data Software : Power BI
+![image](https://github.com/JefPratama/Supermarket-Sales-2/assets/153343134/fc266b0f-cffe-4b91-b797-84710d0ca327)
+
+![image](https://github.com/JefPratama/Supermarket-Sales-2/assets/153343134/9ea1325f-2ff6-446d-84f5-4aeb42ae2538)
+
